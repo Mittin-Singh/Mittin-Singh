@@ -6,7 +6,7 @@
 - 🚀  Data & AI/ML Leader at Celebal Technologies. (Aug 2023 - Present)
 - 💫 Technical Program Manager II at Microsoft Azure. (Feb 2021 - Aug 2023)
 - 📫 Data Scientist/Big Data Developer at Qualcomm Inc. (Feb, 2018 - Jan 2021)
-- 📊 Big Data Deeloper at HP (Hewlett-Packard) (May, 2015 - Jan 2018)
+- 📊 Big Data Developer at HP (Hewlett-Packard) (May, 2015 - Jan 2018)
 - 🤝 Bachelor of Technology (C.S.E) Graduation at ACET (Amritsar College of Engineering and Technology) (Aug, 2011 - May, 2014)
 - 💬  Diploma (C.S.E) at Govt Polytechnic College Amritsar (June, 2008 - May, 2011)
 

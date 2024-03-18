@@ -1,4 +1,4 @@
-[![MasterHead](https://drive.google.com/file/d/18OrC_avrnW2vjMM07BBHklAyE_ZJfSPA/view?usp=drive_link)](https://mittin-singh.github.io/Mittin/)
+[![MasterHead](https://photos.app.goo.gl/QY7STtyhzKb79gSg9)](https://mittin-singh.github.io/Mittin/)
 <h1 align="center">Hi 👋, I'm Mittin PS Nayyar</h1>
 <h3 align="center">Sr Principal Data Specialist Manager @Celebal Technology, Total 10+ years of work experience in Solution Architecture, Tech Presale, Product Management, Developing Data & AI pipelines and Big Data Analytics solutions on cloud and/or premise</h3>
 

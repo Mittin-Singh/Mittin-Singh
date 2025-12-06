@@ -1,6 +1,6 @@
 # Hello! I'm Mittin PS Nayyar
 
-## Sr Director (Principal Data Solution Architect Manager), with 11+ years of experience designing large-scale intelligence systems, Passionate about building reliable data foundations and real-world AI products (Solution Architecture, Tech Presale, Product/Program Management, Developing Data & AI pipelines and Big Data Analytics solutions on cloud and/or premise)
+### Sr Director (Principal Data Solution Architect Manager), with 11+ years of experience designing large-scale intelligence systems, Passionate about building reliable data foundations and real-world AI products (Solution Architecture, Tech Presale, Product/Program Management, Developing Data & AI pipelines and Big Data Analytics solutions on cloud and/or premise)
 
 ## About Me 💻
 ### Professional Journey

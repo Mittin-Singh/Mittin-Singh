@@ -1,6 +1,8 @@
 # Hello! I'm Mittin PS Nayyar
 
-### Sr Director (Principal Data Solution Architect Manager), with 11+ years of experience designing large-scale intelligence systems, Passionate about building reliable data foundations and real-world AI products (Solution Architecture, Tech Presale, Product/Program Management, Developing Data & AI pipelines and Big Data Analytics solutions on cloud and/or premise)
+### Senior Director • Principal Data & AI Solutions Architect (11+ years)
+
+Designing large-scale intelligence systems and building reliable data foundations and real-world AI products across solution architecture, tech presales, product/program management, and data/ML engineering.
 
 ## About Me 💻
 ### Professional Journey
@@ -48,7 +50,7 @@
 ---
 
 ## GitHub Stats 📈
-[![GitHub's Streak](https://streak-stats.demolab.com/?user=BhupeshRathore07&theme=dark)](https://git.io/streak-stats)   ![Bhupesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mittin-Singh&show_icons=true&theme=dark)
+[![GitHub's Streak](https://streak-stats.demolab.com/?user=mittin-singh&theme=dark)](https://git.io/streak-stats)   ![Mittin GitHub stats](https://github-readme-stats.vercel.app/api?username=Mittin-Singh&show_icons=true&theme=dark)
 
 ---
 
@@ -58,6 +60,7 @@ If you're interested in collaborating on a data science project or just want to 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mittinpreet-singh-nayyar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mittinsingh@gmail.com)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mittinsingh)
+[![Substack](https://img.shields.io/badge/Substack-FF0000?style=for-the-badge&logo=substack&logoColor=white)](https://substack.com/@mittinpreetsingh/posts)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@mittinpreetsingh4953)
 [![Portfolio](https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mittin-singh.github.io/Mittin/)
 

@@ -1,4 +1,4 @@
-# Hello! I'm Mittin PS Nayyar
+# Hello! I'm Mittinpreet Singh Nayyar
 
 ### Principal Data & AI Solutions Architect (11+ years)
 

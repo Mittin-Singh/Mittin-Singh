@@ -1,8 +1,8 @@
 # Hello! I'm Mittin PS Nayyar
 
-### Senior Director • Principal Data & AI Solutions Architect (11+ years)
+### Principal Data & AI Solutions Architect (11+ years)
 
-Designing large-scale intelligence systems and building reliable data foundations and real-world AI products across solution architecture, tech presales, product/program management, and data/ML engineering.
+Designing large-scale intelligence systems and building reliable data foundations and real-world AI products across solution architecture, tech presales, product/program management, and Data AI/ML engineering.
 
 ## About Me 💻
 ### Professional Journey

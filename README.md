@@ -4,7 +4,7 @@
 
 Designing large-scale intelligence systems and building reliable data foundations and real-world AI products across solution architecture, tech presales, product/program management, and Data AI/ML engineering.
 
-## About Me <img align="right" src="https://komarev.com/ghpvc/?username=mittin-singh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+## About Me <img align="left" src="https://komarev.com/ghpvc/?username=mittin-singh&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 
 ### Professional Journey
 	- 🚀 Senior Director (Principal Data Solution Architect Manager) at Cognite Technologies (Nov 2024 – Present)
